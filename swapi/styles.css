@@ -1,0 +1,42 @@
+body {
+  background-color: bisque;
+}
+section {
+  background-color: rgb(236, 221, 150);
+  padding: 1%;
+}
+
+section h2 {
+  margin: 2% 1% 2% 1%;
+  font-family: "Times New Roman", Times, serif;
+  width: 50%;
+  background-color: rgb(253, 189, 137);
+  filter: drop-shadow(2px 3px 4px #000000);
+  color: brown;
+
+  font-size: 40px;
+}
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 20vh;
+  background-color: rgb(240, 226, 166);
+}
+header h1 {
+  text-align: center;
+  width: 50%;
+  font-size: 86px;
+  background-color: burlywood;
+  color: brown;
+}
+button {
+  margin: 2% 1% 2% 1%;
+  font-family: "Times New Roman", Times, serif;
+  width: 25%;
+  background-color: rgb(253, 189, 137);
+  filter: drop-shadow(2px 3px 4px #000000);
+  color: brown;
+
+  font-size: 40px;
+}
